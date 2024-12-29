@@ -40,7 +40,7 @@ If you require the database to run this project:
 
 ## Structure
 
-- **Notebook**: `Big Data & Data Mining Assignment.ipynb` contains all the code and analysis.
+- **Notebook**: `Accident_Analysis.ipynb` contains all the code and analysis.
 - **Dataset**: The dataset used for this project focuses on traffic accidents in Kingston Upon Hull.
 - **Models**: Classification and clustering models for accident analysis and prediction.
 
