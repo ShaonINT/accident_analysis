@@ -20,6 +20,14 @@ This repository contains an in-depth analysis of traffic accidents, focusing on 
 - **Outlier Detection**: Leveraging techniques like Isolation Forest and Local Outlier Factor.
 - **Data Visualization**: Visual representation of accident trends and patterns.
 
+## Database Information
+
+The database file `accident_data_v1.0.0_2023.db` is not included in this repository due to size limitations and GitHub's restrictions on large files.
+
+### How to Obtain the Database
+If you require the database to run this project:
+- Please contact me at biswas.shaon@gmail.com.
+
 ## Tools and Technologies
 
 - **Languages**: Python
@@ -39,5 +47,4 @@ This repository contains an in-depth analysis of traffic accidents, focusing on 
 ## How to Use
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/accident_analysis.git
